@@ -1,0 +1,22 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Java build
+target/
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# ML
+venv/
+__pycache__/
+*.ipynb
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
